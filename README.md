@@ -7,7 +7,7 @@ apt -y update && apt -y install wget socat uuid-runtime && wget -O /usr/local/bi
 下载配置文件
 
 ~~~
-wget -O /usr/local/etc/config.json https://github.com/dandan1394/tuicpeizhi/blob/main/config.json && wget -P /etc/systemd/system https://github.com/dandan1394/tuicpeizhi/blob/main/tuic.service
+wget -O /usr/local/etc/config.json https://github.com/dandan1394/ziyong/blob/main/config.json && wget -P /etc/systemd/system https://github.com/dandan1394/ziyong/blob/main/tuic.service
 ~~~
 
 安装ACME
