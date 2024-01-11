@@ -1,7 +1,7 @@
 {
     "server": "[::]:443",
     "users": {
-        "uuid": "password"
+        "uuid": "passwod"
     },
     "certificate": "/etc/ssl/private/cert.crt",
     "private_key": "/etc/ssl/private/private.key",
